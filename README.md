@@ -1,1 +1,1 @@
-# trail-bot
+# trail-learner-bot
